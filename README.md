@@ -118,7 +118,7 @@ The project includes an interactive Excel dashboard containing:
 
 ## Business Recommendations
 
-![Business Recommendations](./Screenshots/recommendations.png)
+![Business Recommendations](Screenshots/recommendation.png)
 
 1. Review pricing, discount levels, and cost structure for Tables.
 2. Investigate high-sales products generating negative profit.
