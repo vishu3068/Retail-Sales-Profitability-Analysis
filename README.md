@@ -88,6 +88,10 @@ The project followed an end-to-end Excel analytics workflow including raw data i
 
 ## Dashboard
 
+### Dashboard Preview 
+
+![Retail Sales & Profitability Dashboard](./Screenshots/dashboard.png)
+
 The project includes an interactive Excel dashboard containing:
 
 - 4 KPI cards
