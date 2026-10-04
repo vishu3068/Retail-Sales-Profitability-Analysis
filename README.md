@@ -4,6 +4,16 @@
 
 This project is an end-to-end retail sales and profitability analysis developed using Microsoft Excel. The project analyzes 10,194 retail transaction records to understand sales performance, profitability, customer behavior, product performance, discount patterns, and time-based sales trends. An interactive dashboard was developed using KPI cards, PivotTables, PivotCharts, charts, and slicers to convert raw transaction data into actionable business insights.
 
+## Project Files
+
+| Resource | Link |
+|---|---|
+| Excel Analysis Workbook | [View Excel Workbook](./Excel/Retail_Sales_Profitability_Analysis.xlsx) |
+| Project Documentation | [View Documentation](./Documentation/project_documentation.pdf) |
+| Dashboard | [View Dashboard](./Screenshots/dashboard.png) |
+| Insights | [View Insights](./Screenshots/insights.png) |
+| Recommendations | [View Recommendations](./Screenshots/recommendations.png) |
+
 ## Skills Demonstrated
 
 - Microsoft Excel
