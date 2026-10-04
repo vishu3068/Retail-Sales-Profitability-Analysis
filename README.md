@@ -112,6 +112,10 @@ The project includes an interactive Excel dashboard containing:
 | Total Quantity | 38,654 |
 | Profit Margin | 12.56% |
 
+## Key Insights
+
+![Retail Sales Analysis Insights](./Screenshots/insights.png)
+
 ## Business Recommendations
 
 1. Review pricing, discount levels, and cost structure for Tables.
